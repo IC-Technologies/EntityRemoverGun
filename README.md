@@ -36,7 +36,7 @@ Config = {
 2. Extract
 3. Place EntityRemover into Resources
 4. Configure Script `config.lua`
-5. Put `start EntityRemover` in your server.cfg
+5. Put `start EntityRemoverGun` in your server.cfg
 6. Put `add_ace group.YOURGROUPNAMEHERE entityremover.delgun allow` in your server.cfg
 7. Start your Server/the script.
 8. Enjoy!
