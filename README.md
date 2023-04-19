@@ -40,3 +40,11 @@ Config = {
 6. Put `add_ace group.YOURGROUPNAMEHERE entityremover.delgun allow` in your server.cfg
 7. Start your Server/the script.
 8. Enjoy!
+
+<h3>Download Link</h3>
+
+https://github.com/IC-Technologies/EntityRemoverGun/releases
+
+<h3>Support</h3>
+
+Need support? Open an issue on our [github](https://github.com/IC-Technologies/EntityRemoverGun/issues) or [discord](https://discord.gg/ZEPcRUU)!
